@@ -1,0 +1,13 @@
+C:\Users\marko\source\repos\FaxProject\FaxProject\bin\Debug\netcoreapp3.1\FaxProject.exe
+C:\Users\marko\source\repos\FaxProject\FaxProject\bin\Debug\netcoreapp3.1\FaxProject.deps.json
+C:\Users\marko\source\repos\FaxProject\FaxProject\bin\Debug\netcoreapp3.1\FaxProject.runtimeconfig.json
+C:\Users\marko\source\repos\FaxProject\FaxProject\bin\Debug\netcoreapp3.1\FaxProject.runtimeconfig.dev.json
+C:\Users\marko\source\repos\FaxProject\FaxProject\bin\Debug\netcoreapp3.1\FaxProject.dll
+C:\Users\marko\source\repos\FaxProject\FaxProject\bin\Debug\netcoreapp3.1\FaxProject.pdb
+C:\Users\marko\source\repos\FaxProject\FaxProject\obj\Debug\netcoreapp3.1\FaxProject.csprojAssemblyReference.cache
+C:\Users\marko\source\repos\FaxProject\FaxProject\obj\Debug\netcoreapp3.1\FaxProject.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\FaxProject\FaxProject\obj\Debug\netcoreapp3.1\FaxProject.AssemblyInfo.cs
+C:\Users\marko\source\repos\FaxProject\FaxProject\obj\Debug\netcoreapp3.1\FaxProject.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\FaxProject\FaxProject\obj\Debug\netcoreapp3.1\FaxProject.dll
+C:\Users\marko\source\repos\FaxProject\FaxProject\obj\Debug\netcoreapp3.1\FaxProject.pdb
+C:\Users\marko\source\repos\FaxProject\FaxProject\obj\Debug\netcoreapp3.1\FaxProject.genruntimeconfig.cache
